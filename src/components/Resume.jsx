@@ -36,7 +36,7 @@ function Resume() {
 
           <div style={{ display: 'flex', justifyContent: 'center', gap: '1.5rem', flexWrap: 'wrap' }}>
             <a
-              href="/Zainab_Shaikh_Resume.pdf"
+              href={`${process.env.PUBLIC_URL}/Zainab_Shaikh_Resume.pdf`}
               download
               className="btn-premium"
               style={{ padding: '1.2rem 2.5rem', fontSize: '1.1rem' }}
@@ -45,7 +45,7 @@ function Resume() {
             </a>
 
             <a
-              href="/Zainab_Shaikh_Resume.pdf"
+              href={`${process.env.PUBLIC_URL}/Zainab_Shaikh_Resume.pdf`}
               target="_blank"
               rel="noopener noreferrer"
               style={{

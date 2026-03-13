@@ -38,7 +38,7 @@ function About() {
                 border: '1px solid rgba(255,255,255,0.1)', boxShadow: '0 25px 50px -12px rgba(0,0,0,0.5)'
               }}>
                 <img
-                  src="/images/profile.png"
+                  src={`${process.env.PUBLIC_URL}/images/profile.png`}
                   alt="Zainab Shaikh"
                   style={{ width: '100%', height: 'auto', display: 'block', transition: 'transform 0.5s ease' }}
                   onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.05)'}
