@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+
+## Custom Notes
+
+- **Dark mode toggle:** use the button in the navbar to switch between light and dark themes. The choice persists only for the current session.
+- **Smooth scrolling:** navigation links and the "View Projects" button smoothly scroll to the corresponding section.
+- **Skills & Resume:** new sections have been added. Place a `resume.pdf` file in the `public/` folder to enable the download link.
+- **Contact form:** the contact section now contains a form. Replace the `action` URL with your Formspree (or similar) endpoint to receive emails.
+
