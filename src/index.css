@@ -1,8 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 /* Global Design System */
+
 :root {
   --primary: #6366f1;
   --primary-hover: #4f46e5;
