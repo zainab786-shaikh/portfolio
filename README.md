@@ -1,80 +1,101 @@
-# Getting Started with Create React App
+# 🌐 Zainab Shaikh – Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal developer portfolio.  
+This website showcases my skills, projects, and journey as a student developer passionate about building intelligent systems and improving education through technology.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🔗 Live Portfolio: https://your-portfolio-link.com
 
 ---
 
-## Custom Notes
+## 👩‍💻 About Me
 
-- **Dark mode toggle:** use the button in the navbar to switch between light and dark themes. The choice persists only for the current session.
-- **Smooth scrolling:** navigation links and the "View Projects" button smoothly scroll to the corresponding section.
-- **Skills & Resume:** new sections have been added. Place a `resume.pdf` file in the `public/` folder to enable the download link.
-- **Contact form:** the contact section now contains a form. Replace the `action` URL with your Formspree (or similar) endpoint to receive emails.
+Hi, I'm **Zainab Shaikh**, a student developer passionate about technology, innovation, and building impactful systems.
 
+I am particularly interested in:
+- Artificial Intelligence
+- Full Stack Development
+- Education Technology
+- Intelligent Systems
+
+I am currently working on projects that aim to improve learning experiences for students using modern technologies and AI.
+
+I am also a member of **ZY Innovators**, a group focused on creating innovative technology solutions to improve education and empower learners.
+
+---
+
+## 🚀 Featured Project
+
+### LearnZy
+
+**LearnZy** is an AI-powered personalized learning platform designed to help students understand concepts step-by-step through interactive lessons and intelligent assistance.
+
+Key features include:
+- AI-powered doubt solving
+- Topic-based learning structure
+- Progress tracking for students
+- Voice input and output support
+- Personalized learning experience
+
+**Tech Stack**
+
+- Angular
+- Node.js
+- PostgreSQL
+- Large Language Models (Mistral)
+- Speech Recognition & Text-to-Speech
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- C
+- C++
+- Java
+- PHP
+- JavaScript
+- SQL
+
+### Web Technologies
+- HTML
+- CSS
+- Angular
+- TypeScript
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Android Studio
+
+### Core Computer Science
+- Data Structures
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+
+---
+
+## 📬 Contact
+
+If you'd like to connect, collaborate, or discuss ideas, feel free to reach out.
+
+📧 Email: shaikh.zainab.arif@gmail.com  
+📍 Location: Mumbai, India  
+🔗 LinkedIn: https://linkedin.com/in/shaikhzainab
+
+---
+
+## ⭐ Inspiration
+
+My goal is to build technology that can improve education and create better opportunities for students to learn and grow.
+
+This portfolio represents my journey as a student developer constantly learning, building, and innovating.
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
